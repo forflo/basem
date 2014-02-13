@@ -9,7 +9,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 Additional permission under GNU GPL version 3 section 7
 
-If you modify this Program, or any covered work, by linking or combining it with [name of library] (or a modified version of that library), containing parts covered by the terms of [name of library's license], the licensors of this Program grant you additional permission to convey the resulting work. 
+If you modify this Program, or any covered work, by linking or combining it with basem, containing parts covered by the terms of GNU GPL version 3, the licensors of this Program grant you additional permission to convey the resulting work. 
 ----
 summary: This tool, called basem, brings semaphor functionality to the
 shell. It has a very simple CLI described in the function usage().
