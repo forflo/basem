@@ -1,0 +1,5 @@
+This tool, called basem, brings semaphor functionality to the
+shell. It has a very simple CLI described in the function usage().
+Semaphores can be created as well as destroyed and the common Operations (p and v)
+are usable by specifying the -p or -v flag. The Semaphores are referenced
+by the Sys-V IPC keys. 
