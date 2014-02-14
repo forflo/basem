@@ -3,3 +3,10 @@ shell. It has a very simple CLI described in the function usage().
 Semaphores can be created as well as destroyed and the common Operations (p and v)
 are usable by specifying the -p or -v flag. The Semaphores are referenced
 by the Sys-V IPC keys. 
+
+Information for Users:
+
+To actually build this package you have to run the following commands
+$ automake --add-missing #would work without, but to be sure...
+$ autoreconf
+$ ./configure --prefix=<your choice> && make && make install
